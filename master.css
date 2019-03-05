@@ -1,12 +1,12 @@
 body {
   font-family: Impact;
   color: brown;
-  background-color: white;
+  background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-903ea3cb.jpg);
 }
 
 .important-words {
-  background-color: blue;
-  color: orange;
+  background-color: magenta;
+  color: blue;
   font-family: monospace;
   font-size: 18
 }
@@ -24,16 +24,18 @@ em:hover {
 }
 
 .gifs {
-  height: 600px;
-  width: 600px;
-  margin: 15px;
-  align-items: center;
+  height: 500px;
+  width: 500px;
+  margin: 0 28em;
+  padding: .5em;
+
+
 }
 
 .quote {
   text-align: center;
-  border: 7px solid lightblue;
-  background-color: purple;
+  border: 7px solid orange;
+  background-color: #00fa9a;
   font-size: 40;
   width: 700px;
   height: 50px;
@@ -42,6 +44,7 @@ em:hover {
 
 .sa {
   font-size: 100;
+  color: #85000e;
 }
 
 .sa2 {
@@ -51,6 +54,8 @@ em:hover {
 
 .sa3 {
   font-size: 80;
+  color: #85000e;
+  border: 5px solid orange;
 }
 
 .sa4 {
@@ -67,10 +72,12 @@ em:hover {
   font-size: 20;
   color: red;
   border: 5px solid blue;
+  font-family: monospace;
 }
 
 .Titel2 {
   text-align: center;
+  color: #d5ff2d;
 }
 
 .container {
@@ -78,7 +85,8 @@ em:hover {
   margin: auto;
   overflow: hidden;
   text-align: center;
-  border: 1px solid lightgray
+  border: 1px solid lightgray;
+  background: lightblue;
 }
 
 
